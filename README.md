@@ -1,5 +1,5 @@
 
-# Seja bem-vindo(a)!
+# Seja bem-vindo(a)! 🧑🏻‍🚀
 
 Este é o meu perfil no Github. No final do ano passado, me formei no Ensino Médio Integrado à Técnico em Desenvolvimento de Sistemas, na ETEC Aristóteles Ferreira. Estou em busca da minha primeira oportunidade profissional, e também ingressar no ensino superior no próximo semestre.
 
