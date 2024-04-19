@@ -1,7 +1,7 @@
 
 # Seja bem-vindo(a)! 🧑🏻‍🚀
 
-Sou Afonso, desenvolvedor full-stack, tenho formação de Técnico em Desenvolvimento de Sistemas.
+Sou Afonso, desenvolvedor full-stack, tenho formação de Técnico em Desenvolvimento de Sistemas e recentemente finalizei o Treinamento Microsoft Azure Fundamentals (AZ-900).
 
 - 🔭 Atualmente estou trabalhando no meu portfólio, estou produzindo um site para fazer um pequeno "acervo" dos meus projetos, e trabalhando com outras ideias;
 
