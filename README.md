@@ -1,7 +1,7 @@
 
 # Seja bem-vindo(a)! 🧑🏻‍🚀
 
-Este é o meu perfil no Github. No final do ano passado, me formei no Ensino Médio Integrado à Técnico em Desenvolvimento de Sistemas, na ETEC Aristóteles Ferreira. Estou em busca da minha primeira oportunidade profissional, e também ingressar no ensino superior no próximo semestre.
+Sou Afonso, desenvolvedor full-stack, tenho formação de Técnico em Desenvolvimento de Sistemas.
 
 - 🔭 Atualmente estou trabalhando no meu portfólio, estou produzindo um site para fazer um pequeno "acervo" dos meus projetos, e trabalhando com outras ideias;
 
