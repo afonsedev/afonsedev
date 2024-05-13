@@ -4,7 +4,7 @@
 I´m Afonso, a brazilian fullstack developer and junior cloud engineer. My repositories are here to upgrade and show my diversity of skills.
 - 🔭 At the moment, I´m working in my portfolio.
 
-## Tools and Technologies
+## Technologies and Tools
 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" 
