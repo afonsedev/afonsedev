@@ -1,5 +1,4 @@
-<h1 align="center">Seja bem-vindo(a)! 🚀</h1>
-<h1 align="center">Eu sou Afonso Anjos</h1>
+<h1 align="center">Bem-vindo(a)!<br>Eu sou Afonso Anjos</h1>
 
 
 <div>
