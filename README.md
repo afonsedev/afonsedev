@@ -8,7 +8,7 @@
 
 ## Sobre mim
 - ⌨️ Engenheiro de Software/Nuvem Júnior;
-- 📈 Estudando Curso Superior de Tecnologia (CST) de Análise e Desenvolvimento de Sistemas, na Fatec Baixada Santista Rubens Lara;
+- 📈 Estudando Curso Superior de Tecnologia (CST) de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia (Fatec);
 - 🔧 Especializado nas tecnologias .NET; C#, SQL, SQL Server, Azure e AWS.
 
 
